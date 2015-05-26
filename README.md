@@ -1,0 +1,2 @@
+# rely-cloudformation_servicenetwork
+Cloudformation provisioning example
